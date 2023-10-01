@@ -14,17 +14,17 @@ Los tres Reyes Magos (Melchor, Gaspar y Baltasar)
 ## Software utlizado 
 | Nombre de Software | Versión | Tipo |
 |-|-|-|
-|Visual Studio Code| 1.79.2 | |
+|Visual Studio Code| 1.79.2 | Editor |
 
 ## Dibujo del prototipo a desarrollar 
 - Coloca el dibujo a mano de la propuesta de prototipo a realizar.
-- ![Dibujo resyes magos](URL_de_la_imagen)
+![Dibujo resyes magos](https://github.com/dalisoto/Personaje/blob/main/Dibujo%20reyes%20magos.jpg?raw=true)
 
 ## Comunicación 
 Describir el protocolo de comunicación que tendrá el dispositivo (Como interactua el usuario con el prototipo)
 
 ## Arquitectura 
-Coloca una imgane donde coloques los sensores, los actuadores, el microcontrolador, base de datos (sqlite o mysql).
+Coloca una imgane donde coloques los sensores, los actuadores, el microcontrolador, base de datos (sqlite o mysql). 
 
 ## Base de datos
 - Coloca una imagen del modelo relacional a utilizar 
