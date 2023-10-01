@@ -18,6 +18,7 @@ Los tres Reyes Magos (Melchor, Gaspar y Baltasar)
 
 ## Dibujo del prototipo a desarrollar 
 - Coloca el dibujo a mano de la propuesta de prototipo a realizar.
+- ![Dibujo resyes magos](URL_de_la_imagen)
 
 ## Comunicación 
 Describir el protocolo de comunicación que tendrá el dispositivo (Como interactua el usuario con el prototipo)
