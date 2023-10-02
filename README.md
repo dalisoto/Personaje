@@ -1,3 +1,8 @@
+#Integrantes
+Dalia del CArmen Mendiola Soto
+Adrian Morales López
+Citlali Anaid Limas Maya
+
 # Personaje para pastorela 💫🌟
 
 ## Nombre del personaje
