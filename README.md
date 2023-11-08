@@ -24,8 +24,8 @@ Los tres Reyes Magos (Melchor, Gaspar y Baltasar)
 ## Dibujo del prototipo a desarrollar 
 - Coloca el dibujo a mano de la propuesta de prototipo a realizar.
 ![Dibujo resyes magos](https://github.com/dalisoto/Personaje/blob/main/Dibujo%20reyes%20magos.jpg?raw=true)
-![Dibujo resyes magos](![image](https://github.com/dalisoto/Personaje/assets/139840896/694815de-58d4-4101-8534-eb34bfeb3dda)
-)
+![Prototipo de proyecto](https://github.com/dalisoto/Personaje/assets/139840896/694815de-58d4-4101-8534-eb34bfeb3dda)
+
 
 ## Comunicación 
 Describir el protocolo de comunicación que tendrá el dispositivo (Como interactua el usuario con el prototipo)
