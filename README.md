@@ -1,11 +1,10 @@
-### Integrantes
-Dalia del Carmen Mendiola Soto
-Adrian Morales López
-Citlali Anaid Limas Maya
-### Grupo
-GDS0542
-
 # Personaje para pastorela 💫🌟
+#### Integrantes
+- Dalia del Carmen Mendiola Soto
+- Adrian Morales López
+- Citlali Anaid Limas Maya
+#### Grupo
+GDS0542
 
 ## Nombre del personaje
 Los tres Reyes Magos (Melchor, Gaspar y Baltasar)
