@@ -1,9 +1,10 @@
 # Personaje para pastorela 💫🌟
-#### Integrantes
+
+### Integrantes
 - Dalia del Carmen Mendiola Soto
 - Adrian Morales López
 - Citlali Anaid Limas Maya
-#### Grupo
+### Grupo
 GDS0542
 
 ## Nombre del personaje
