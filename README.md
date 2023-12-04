@@ -45,6 +45,9 @@ Los tres Reyes Magos (Melchor, Gaspar y Baltasar)
 
 ## Imagenes del proyecto final 
 
+![Reyes_magos](https://github.com/dalisoto/Personaje/blob/main/Reyes_magos.jpg?raw=true)
+
+
 
 
 ## Comunicación 
