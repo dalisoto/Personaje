@@ -68,4 +68,5 @@ Imagenes del código de la placa 2
 ![img2p2](https://github.com/dalisoto/Personaje/blob/main/img2p1.jpg?raw=true)
 ![img3p2](https://github.com/dalisoto/Personaje/blob/main/img3p1.jpg?raw=true)
 ## Enlace a drive para ver el video del funcionamiento del proyecto
+No se pudo subir a git debido al tamaño del video.
 https://drive.google.com/file/d/1xSZzrpQzt4ZiSIcFHwVN-keGWmTJNXBT/view?usp=sharing
