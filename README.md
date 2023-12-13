@@ -58,6 +58,7 @@ El proyecto tendrá un sensor de movimiento que al detectar movimiento este se a
 Coloca una imgane donde coloques los sensores, los actuadores, el microcontrolador, base de datos (sqlite o mysql). 
 
 ## Código python
+Para descargar el código de micropython descargue la carpeta comprimida en zip, "Reyes Magos.zip"
 Imagenes del código de la placa 1
 ![img1p1](https://github.com/dalisoto/Personaje/blob/main/img1p2.jpg?raw=true)
 ![img1p1](https://github.com/dalisoto/Personaje/blob/main/img2p2.jpg?raw=true)
