@@ -70,3 +70,7 @@ Imagenes del código de la placa 2
 ## Enlace a drive para ver el video del funcionamiento del proyecto
 No se pudo subir a git debido al tamaño del video.
 https://drive.google.com/file/d/1xSZzrpQzt4ZiSIcFHwVN-keGWmTJNXBT/view?usp=sharing
+
+## Imagen de flujo de Node Red
+![NodeRed](https://github.com/dalisoto/Personaje/blob/main/NodeRedimg.png?raw=true)
+Para ver el código vaya al archivo "Reyes Magos (2).json "
