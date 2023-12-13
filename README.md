@@ -59,7 +59,12 @@ Coloca una imgane donde coloques los sensores, los actuadores, el microcontrolad
 
 ## Código python
 Imagenes del código de la placa 1
-![img1p2](https://github.com/dalisoto/Personaje/blob/main/img1p2.jpg?raw=true)
-![img1p2](https://github.com/dalisoto/Personaje/blob/main/img2p2.jpg?raw=true)
-![img1p2](https://github.com/dalisoto/Personaje/blob/main/img3p2.jpg?raw=true)
+![img1p1](https://github.com/dalisoto/Personaje/blob/main/img1p2.jpg?raw=true)
+![img1p1](https://github.com/dalisoto/Personaje/blob/main/img2p2.jpg?raw=true)
+![img1p1](https://github.com/dalisoto/Personaje/blob/main/img3p2.jpg?raw=true)
+
+Imagenes del código de la placa 2
+![img1p2](https://github.com/dalisoto/Personaje/blob/main/img1p1.jpg?raw=true)
+![img2p2](https://github.com/dalisoto/Personaje/blob/main/img2p1.jpg?raw=true)
+![img3p2](https://github.com/dalisoto/Personaje/blob/main/img3p1.jpg?raw=true)
 ##
